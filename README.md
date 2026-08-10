@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Junayed Shahriar 👋
 
-<!--
-**junayed-shahriar/junayed-shahriar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+I'm a Computer Science & Engineering student interested in programming, software development, and technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning new technologies and building projects to improve my skills.
+
+## 🛠️ Skills
+
+- C
+- C++
+- Java
+- Python
+- SQL
+- HTML
+- CSS
+- Git & GitHub
+
+## 📂 Projects
+
+### Petrol Pump Management System
+A database management project designed to manage petrol pump operations.
+
+**Technologies:** SQL, Database Management System
+
+### Python Projects
+A collection of Python programs and practice projects.
+
+**Technologies:** Python
+
+## 🎓 Education
+
+Computer Science & Engineering
+
+## 📫 Contact
+
+- GitHub: [junayed-shahriar](https://github.com/junayed-shahriar)
+
+---
+
+⭐ Thanks for visiting my profile!
